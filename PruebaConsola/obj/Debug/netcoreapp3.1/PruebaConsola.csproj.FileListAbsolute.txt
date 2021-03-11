@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\pruebaConsola\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.exe
+C:\Users\Usuario\Documents\pruebaConsola\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.deps.json
+C:\Users\Usuario\Documents\pruebaConsola\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.runtimeconfig.json
+C:\Users\Usuario\Documents\pruebaConsola\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\pruebaConsola\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.dll
+C:\Users\Usuario\Documents\pruebaConsola\PruebaConsola\bin\Debug\netcoreapp3.1\PruebaConsola.pdb
+C:\Users\Usuario\Documents\pruebaConsola\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\pruebaConsola\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\pruebaConsola\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.AssemblyInfo.cs
+C:\Users\Usuario\Documents\pruebaConsola\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\pruebaConsola\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.dll
+C:\Users\Usuario\Documents\pruebaConsola\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.pdb
+C:\Users\Usuario\Documents\pruebaConsola\PruebaConsola\obj\Debug\netcoreapp3.1\PruebaConsola.genruntimeconfig.cache
